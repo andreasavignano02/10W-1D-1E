@@ -1,0 +1,12 @@
+html,body{
+    height: 100%;
+    position: relative;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Kolker Brush', cursive;
+}
+p{
+    font-size: 1.5rem;
+    font-family: 'Kolker Brush', cursive;
+}
